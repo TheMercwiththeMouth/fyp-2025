@@ -1,17 +1,17 @@
-#Mobile WSNs Fault Node Replacement Algorithm - Final Year Project 2025
+# Mobile WSNs Fault Node Replacement Algorithm - Final Year Project 2025
 
-###Initial Setup
+### Initial Setup
 Upload all the files to the scratch folder of the ns-3.43 directory. Run the following commands:
 ```
 ./ns3 clean
 ./ns3 configure
 ```
-###What to Run?
+### What to Run?
 For the project, we are currently using leach_new for the implementation of the LEACH protocol. Navigate to the ns-3.43 directory and run the following command:
 ```
 ./ns3 run leach_new
 ```
-###Current Output
+### Current Output
 ```
 Running Main Function:
 sensor
